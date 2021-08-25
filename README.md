@@ -1,4 +1,4 @@
-![AxieInfinity Manager Logo] (https://raw.githubusercontent.com/abdellahbilla/AxieInfinity-Manager/main/axie_infinit_manager_icon.png)
+![AxieInfinity Manager Logo](https://raw.githubusercontent.com/abdellahbilla/AxieInfinity-Manager/main/axie_infinit_manager_icon.png)
 # AxieInfinity-Manager
 Axie Infinity Manager, is a currency/cryptocurrency calculator and inventory manager, to manage your investment in Axie Infinity.
 
